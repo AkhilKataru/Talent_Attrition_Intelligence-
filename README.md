@@ -2,7 +2,7 @@
 
 A Power BI dashboard identifying which candidates in a 19,000-person talent pool are most likely to be actively job-seeking, and what drives that intent.
 
-![dashboard-preview](images/dashboard_overview.png)
+![dashboard-preview](Dashboard_Overview.png)
 
 ## The 30-Second Pitch
 
@@ -72,15 +72,11 @@ People flagged **high-risk** actually left **54%** of the time, versus only **14
 
 ```
 hr-attrition-risk-dashboard/
-├── README.md
-├── dashboard/
-│   └── hr_attrition_dashboard.pbix
-├── reports/
-│   └── hr_attrition_report.pdf
-├── data/
-│   └── README.md   (data source/download link — raw data not committed)
-└── images/
-    └── dashboard_overview.png
+├── README.md   (data source/download link — raw data not committed)
+├── HR_Analytics_Dashboard.pbix
+├── HR_Analytics_Presentation.pptx
+├── HR_Analytics_file.csv
+└── dashboard_overview.png
 ```
 
 ## Data
